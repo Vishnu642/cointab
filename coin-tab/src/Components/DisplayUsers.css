@@ -25,3 +25,10 @@
     cursor: pointer;
 
 }
+
+.displayname>div{
+    border: 1px solid white;
+    padding: 20px;
+    color: white;
+    font-size: 26px;
+}
